@@ -1,4 +1,0 @@
-# hekki
-
-
-import pandas
